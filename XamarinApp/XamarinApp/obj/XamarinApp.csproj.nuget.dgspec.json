@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aidayrysbekova/XamariniOSApp/XamarinApp/XamarinApp/XamarinApp.csproj": {}
+  },
+  "projects": {
+    "/Users/aidayrysbekova/XamariniOSApp/XamarinApp/XamarinApp/XamarinApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aidayrysbekova/XamariniOSApp/XamarinApp/XamarinApp/XamarinApp.csproj",
+        "projectName": "XamarinApp",
+        "projectPath": "/Users/aidayrysbekova/XamariniOSApp/XamarinApp/XamarinApp/XamarinApp.csproj",
+        "packagesPath": "/Users/aidayrysbekova/.nuget/packages/",
+        "outputPath": "/Users/aidayrysbekova/XamariniOSApp/XamarinApp/XamarinApp/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/aidayrysbekova/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "http://chteamcity.eastus.cloudapp.azure.com/httpAuth/app/nuget/feed/CustomHouse_BirdDog_Portal/default/v2": {},
+          "http://chteamcity.eastus.cloudapp.azure.com/httpAuth/app/nuget/feed/CustomHouse_MyRiteLoad_Portal/default/v2": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

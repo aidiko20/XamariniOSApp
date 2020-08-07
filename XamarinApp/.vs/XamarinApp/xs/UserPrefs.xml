@@ -1,11 +1,14 @@
 ﻿<Properties StartupConfiguration="{0079CCEB-EA3D-42F2-B508-A60C6298BA46}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinApp/Main.storyboard">
+    <Files>
+      <File FileName="XamarinApp/Main.storyboard" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="XamarinApp" expanded="True">
             <Node name="XamarinApp" expanded="True">
-              <Node name="GettingStarted" selected="True" />
+              <Node name="Main.storyboard" selected="True" />
             </Node>
           </Node>
         </State>
